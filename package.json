@@ -1,0 +1,20 @@
+{
+  "name": "lineencoding",
+  "version": "1.0.0",
+  "description": "Given a string, return its encoding defined as follows:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/lineEncoding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/lineEncoding/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/lineEncoding#readme"
+}
